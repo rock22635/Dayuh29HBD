@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunklottleforvue"]=self["webpackChunklottleforvue"]||[]).push([[777],{6777:function(e,t,u){e.exports=u.p+"media/G5.8a31050c.mp3"}}]);
